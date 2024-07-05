@@ -63,3 +63,10 @@ div .blue img {
     height: 300px;
     width: 250px;
 }
+div .blue1 img {
+    height: 300px;
+    width: 250px;
+}
+div blue1 {
+    float: right;
+}
