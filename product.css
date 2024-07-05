@@ -48,6 +48,7 @@ img {
     padding: 20px;
     border-radius: 10px;
     float: left;
+    display: grid;
 }
 .burger1 p img {
     width: 30%;
@@ -62,6 +63,7 @@ img {
     padding: 20px;
     border-radius: 10px;
     float: left;
+    display: grid;
 }
 .burger2 p img {
     width: 30%;
@@ -76,9 +78,35 @@ img {
     padding: 20px;
     border-radius: 10px;
     float: left;
+    display: grid;
 }
 .burger3 p img {
     width: 30%;
     height: 300px;
     float: right;
+}
+.header {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.footer {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.burger1 p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.burger2 p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.burger3 p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
 }

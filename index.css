@@ -40,4 +40,28 @@ h3 {
 img {
     height: 250px;
 }
+.para1 p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+header {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+footer {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    display: flex;
+    float: left;
+}
+.para1 .p{
+    display: flex;
+}
  
+.para2 img {
+    display: flex;
+    float: right;
+}

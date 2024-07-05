@@ -37,3 +37,23 @@ h3 {
 .navbar li{
     float: left;
 }
+header {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.blue p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.red p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+footer {
+    font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;  
+}
