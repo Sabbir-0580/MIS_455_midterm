@@ -1,11 +1,17 @@
+/* name : Sabbir Ahmmed
+id : 2220580 */
 body {
     margin: 0px;
+    background-color: rgb(187, 231, 215);
 }
 main {
     margin-left: 20px;
     margin-right: 20px;
 }
 h1 {
+    text-align: center;
+}
+h3 {
     text-align: center;
 }
 .navbar ul {
@@ -30,4 +36,10 @@ h1 {
 
 .navbar li{
     float: left;
+}
+img {
+    height: 400px;
+}
+.div p {
+    text-decoration: solid;
 }
