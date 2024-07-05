@@ -1,0 +1,84 @@
+/* name : Sabbir Ahmmed
+id : 2220580 */
+body {
+    margin: 0px;
+    background-color: rgb(187, 231, 215);
+}
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.navbar ul {
+    list-style-type: none;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: black;
+}
+
+.navbar li{
+    float: left;
+}
+img {
+    height: 400px;
+}
+.burger1 p{
+    border: 3px solid rgb(149, 184, 196);
+    background-color: rgb(223, 205, 183);
+    box-shadow: 4px 6px 3px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    float: left;
+}
+.burger1 p img {
+    width: 30%;
+    height: 300px;
+    float: right;
+}
+.burger2 p{
+    border: 3px solid rgb(149, 184, 196);
+    background-color: rgb(223, 205, 183);
+    box-shadow: 4px 6px 3px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    float: left;
+}
+.burger2 p img {
+    width: 30%;
+    height: 300px;
+    float: right;
+}
+.burger3 p{
+    border: 3px solid rgb(149, 184, 196);
+    background-color: rgb(223, 205, 183);
+    box-shadow: 4px 6px 3px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    float: left;
+}
+.burger3 p img {
+    width: 30%;
+    height: 300px;
+    float: right;
+}
