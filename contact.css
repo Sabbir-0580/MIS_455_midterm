@@ -57,3 +57,9 @@ footer {
   font-weight: 900;
   font-style: normal;  
 }
+div .blue img {
+    display: flex;
+    float: left;
+    height: 300px;
+    width: 250px;
+}
